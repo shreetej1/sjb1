@@ -1,0 +1,145 @@
+
+hr{
+border-style:dotted;
+border-width:5px 0 0 0;
+width:10%;
+border-color:grey;
+
+}
+
+button{
+padding:10px 30px;
+ background-color:rgb(124, 236, 236);
+
+border-radius:10px;
+color:white;
+
+
+}
+
+p{
+    font-family: 'Merriweather', serif;
+}
+
+
+
+
+
+
+.b1{
+    background-color:rgb(124, 236, 236);
+    text-align: center;
+    padding-top: 200px;
+
+
+
+}
+
+    .b1 h1 {
+
+        font-family: 'Girassol', cursive;
+        font-size: 80px;
+    }
+
+    .b1 h3{
+            font-size: 50px;
+
+           
+
+
+
+
+    }
+
+
+
+
+.b2{
+
+    padding-top: 90px;
+    height: 700px;
+    text-align: center;
+
+}
+
+.dp{
+
+        width: 50%;
+    border-radius:100%;
+
+
+}
+.academics_img{
+
+    height: 190px;
+    float: left;
+}
+
+.b3{
+
+
+    background-color:whites ;
+    height: 500px;
+    text-align: center;
+
+}
+
+h1{
+    color:rgb(0, 92, 61);
+
+}
+
+h3{
+color: rgb(0, 92, 61);
+
+}
+
+.hello{
+    padding:  0 20%;
+}
+
+.academics_div{
+
+   text-align: left;
+   padding: 50px 10px ;
+
+}
+
+.technology{
+
+height: 210px;
+float: right;
+ 
+}
+
+.tech_div{
+   
+text-align: left;
+padding: 50px 10px 
+
+
+
+}
+.tech_div h1{
+
+color: rgb(0, 194, 152);
+text-align: center;
+
+}
+
+
+.tech_div h3{
+
+    color: rgb(0, 194, 152);
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
